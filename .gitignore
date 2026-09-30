@@ -1,0 +1,3 @@
+# Installateurs : publiés comme Releases, jamais versionnés
+*.exe
+*.msi
